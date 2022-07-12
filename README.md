@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faizan</h1>
-<h3 align="center">A passionate Web developer</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizan-aka&label=Profile%20views&color=42b40e&style=flat" alt="faizan-aka" /> </p>
 
